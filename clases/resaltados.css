@@ -1,0 +1,32 @@
+
+
+.resaltado{
+background-color: aquamarine; /*resaltado*/
+color:brown;  /*color del texto*/
+display: inline-block; /*para que el fondo se ajuste al texto*/
+}
+
+.resaltado2{
+background-color: rgb(230, 217, 41); 
+display: inline-block; 
+color: black; 
+}
+
+.resaltado3{
+background-color: rgb(181, 246, 116); 
+display: inline-block; 
+color: black; 
+}
+
+.resaltado4{
+background-color: rgb(255, 134, 214); 
+display: inline-block; 
+color: black; 
+}
+ 
+
+
+
+
+
+   

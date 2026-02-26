@@ -1,0 +1,28 @@
+h1{
+  text-align: center;
+
+}
+
+.foto{
+  display: block;      /* la convierte en bloque */
+  margin: 0 auto;      /* centra horizontalmente */
+}
+
+.video{
+  display: block;      /* la convierte en bloque */
+  margin: 0 auto;      /* centra horizontalmente */
+}
+
+
+.tablacentrada{
+  margin: 0 auto;      /* centra horizontalmente */
+  text-align: center;
+}
+.audiocentrada{
+  display: block;      /* la convierte en bloque */
+  margin: 0 auto;      /* centra horizontalmente */
+}
+
+div{
+  text-align: center;
+}
